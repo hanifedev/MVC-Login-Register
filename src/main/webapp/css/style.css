@@ -1,0 +1,35 @@
+.shop-navbar{
+	padding-top:30px;
+	padding-bottom:30px;
+	background:white;
+}
+
+.shop-navbar .navbar-nav>li>a:hover {
+	color:#5cb85c;
+}
+
+.shop-content .sc-item-img{
+		margin-bottom:20px;
+}
+.pull-right {
+	margin:9px;
+}
+
+.shop-slider{
+	 background:#E4E4E4;
+	 padding-top:30px;
+	 padding-bottom:30px;
+	 margin-top:-20px;
+}
+
+.shop-content{
+		padding-top:50px;
+		padding-bottom:50px;
+}
+
+.shop-footer{
+	padding-top:30px;
+	padding-bottom:30px;
+	background:#202020;
+	color:#5cb85c;
+}
